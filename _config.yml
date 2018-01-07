@@ -54,17 +54,5 @@ friends: [
     {
         title: "Yiz96's Blog",
         href: "https://blog.yiz96.com/"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
     }
 ]
