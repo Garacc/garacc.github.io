@@ -4,7 +4,7 @@ title:      "ComNet Summary"
 subtitle:   "在通信网络考试前的救赎"
 date:       2018-01-08
 author:     "Garacc"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - ComNet
     - Course
