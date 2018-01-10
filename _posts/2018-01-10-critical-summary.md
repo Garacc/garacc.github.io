@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "批判性思维与科学研究 Summary"
-subtitle:   "ZJU, ISEE, Critical, Final Review"
+subtitle:   "ZJU, Humanites, Critical, Final Review"
 date:       2018-01-10
 author:     "Garacc"
 header-img: "img/post-bg-unix-linux.jpg"
