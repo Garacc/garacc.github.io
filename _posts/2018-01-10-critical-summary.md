@@ -4,7 +4,7 @@ title:      "批判性思维与科学研究 Summary"
 subtitle:   "ZJU, Humanites, Critical, Final Review"
 date:       2018-01-10
 author:     "Garacc"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/critical_summary/bg.jpg"
 tags:
     - Critical
     - Course
