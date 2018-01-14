@@ -631,7 +631,7 @@ DTN(Delay Tolerant Networks)网络，即时延容忍网络，包括水声、卫�
 
 描述1：
 $$
-D\_{ij}(F\_{ij})=\\frac{F\_{ij}}{C\_{ij}-F\_{ij}}+d\_{ij}F\_{ij}
+D_{ij}(F_{ij})=\frac{F_{ij}}{C_{ij}-F_{ij}}+d_{ij}F_{ij}
 $$
 
 其中\\(C\_{ij}\\)是链路(i,j)的传输容量；  
@@ -642,7 +642,7 @@ $$
 
 描述2：
 $$
-\\max\_{(i,j)}\\bigg\\{\\frac{F\_{ij}}{C\_{ij}}\\bigg\\}
+\max_{(i,j)}\bigg\{\frac{F_{ij}}{C_{ij}}\bigg\}
 $$
 
 这种表示方法可以表明链路的最大利用率。
@@ -659,11 +659,11 @@ $$
 - \\(r_{w}\\) ~ OD对\\(w\\)给定的输入通信量
 
 $$
-\\min \\sum\_{(i,j)}D\_{ij}\\bigg[\\sum\_{all\\;p\\;with\\;(i,j)}x\_{p}\\bigg]=D(x)
+\min \sum_{(i,j)}D_{ij}\bigg[\sum_{all\;p\;with\;(i,j)}x_{p}\bigg]=D(x)
 $$
 $$
-s.t. \\sum\_{p \\in P\_{w}}x\_{p}=r\_{w}, \\forall w \\in W \\\\
-x\_{p} \\geq 0, \\forall w \\in W, p \in P\_{w}
+s.t. \sum_{p \in P_{w}}x_{p}=r_{w}, \forall w \in W \\
+x_{p} \geq 0, \forall w \in W, p \in P_{w}
 $$
 
 剩余问题就都是数学问题了。
